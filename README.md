@@ -1,4 +1,4 @@
-## Olá!! eu sou Mariana Gonçalves
+## Olá!! Eu sou Mariana Gonçalves
 
  Sobre mim
 
