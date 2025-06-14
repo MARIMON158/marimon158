@@ -1,6 +1,6 @@
-Olá eu sou Marimon158👋🏼
+##Olá eu sou Marimon158👋🏼
 
-## Sobre mim
+ Sobre mim
 
 🎓 Estudante de desenvolvimento web  
 💻 Foco em Frontend: HTML | CSS | JavaScript  
