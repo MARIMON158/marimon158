@@ -1,35 +1,126 @@
-## Olá!! Eu sou Mariana Gonçalves
-<div align="center">
+# 👩🏻‍💻 Mariana Gonçalves
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=ffb6c1&height=100&section=header"/>
+**`Desenvolvedora Frontend`**
 
-  <div style="background-color:#ffe4ec; padding: 20px; border-radius: 15px; max-width: 600px; margin: auto;">
+Olá! Me chamo Mariana Gonçalves, tenho 24 anos e sou natural de Salvador, Bahia. Estou cursando Tecnólogo em Análise e Desenvolvimento de Sistemas e sou apaixonada por tecnologia. Compartilho meus projetos e aprendizados através do GitHub e LinkedIn, sempre buscando evoluir como desenvolvedora frontend.
 
-  <h1 style="color:#d63384;">🌸 Olá! Eu sou a Mariana 🌸</h1>
+---
 
-  <p style="color:#d63384; font-size: 18px;">Desenvolvedora Frontend com amor por interfaces bonitas e código limpo.</p>
+### 🤖 Linguagens e Tecnologias
 
-  <img src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO_AQUI&show_icons=true&theme=rose_pine&hide_border=true&bg_color=ffe4ec&title_color=d63384&icon_color=d63384&text_color=d63384" alt="Estatísticas do GitHub" style="margin-top:10px"/>
+<img 
+    align="left" 
+    alt="HTML"
+    title="HTML" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="CSS" 
+    title="CSS"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="JavaScript" 
+    title="JavaScript"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="TypeScript"
+    title="TypeScript" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="React"
+    title="React" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Next.js" 
+    title="Next.js"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Bootstrap"
+    title="Bootstrap" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Tailwind" 
+    title="Tailwind"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" 
+/>
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO_AQUI&layout=compact&theme=rose_pine&hide_border=true&bg_color=ffe4ec&title_color=d63384&text_color=d63384" alt="Linguagens" style="margin-top:10px"/>
+<img 
+    align="left" 
+    alt="PHP" 
+    title="PHP"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" 
+/>
 
-  ---
-  ### 🚀 Tecnologias que uso
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=fff" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=fff" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=fff" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=fff" />
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=fff" />
+<img 
+    align="left" 
+    alt="JQuery" 
+    title="JQuery"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jquery/jquery-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Git" 
+    title="Git"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Python" 
+    title="Python"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
+/>
 
-  ---
-  ### 🌐 Onde me encontrar
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-ffb6c1?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/SEU_USUARIO/)
-  [![Instagram](https://img.shields.io/badge/Instagram-ffb6c1?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/SEU_USUARIO)
-  [![Gmail](https://img.shields.io/badge/Gmail-ffb6c1?style=for-the-badge&logo=gmail&logoColor=white)](mailto:SEU_EMAIL@gmail.com)
+<br/>
+<br/>
 
-  </div>
+### 📊 Estatísticas
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=ffb6c1&height=100&section=footer"/>
+<img 
+  alt="Estatísticas do GitHub" 
+  height="200" 
+  src="https://github-readme-stats.vercel.app/api?username=MARIMON158&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+/>
 
-</div>
+<img 
+  alt="Linguagens mais usadas" 
+  height="200" 
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=MARIMON158&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+/>
+
