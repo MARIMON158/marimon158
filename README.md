@@ -1,9 +1,15 @@
 Olá eu sou Marimon158👋🏼
 
--🔭 Front-end
--💼 Trabalho atualmente na Natura como atendente
--👩‍🎓 Estou estudando Analise e desenvolvimento de sitemas
--📚 Estou fazendo curso de PHP e Python na Udemy
+## Sobre mim
 
+🎓 Estudante de desenvolvimento web  
+💻 Foco em Frontend: HTML | CSS | JavaScript  
+🎨 Interesso-me por design, animações e UX  
+🌌 Amo criar projetos com temas criativos como jogos e sites divertidos!  
 
+## 📚 Atualmente estudando:
+- React.js
+- Figma para prototipação
+- Boas práticas de acessibilidade
 
+📍 Salvador - BA, Brasil  
