@@ -7,9 +7,4 @@ Olá eu sou Marimon158👋🏼
 🎨 Interesso-me por design, animações e UX  
 🌌 Amo criar projetos com temas criativos como jogos e sites divertidos!  
 
-## 📚 Cursando:
-- React.js
-- Figma para prototipação
-- Boas práticas de acessibilidade
-
 📍 Salvador - BA, Brasil  
