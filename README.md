@@ -2,29 +2,14 @@
 
 **`Desenvolvedora Frontend`**
 
-Olá! Me chamo Mariana Gonçalves, tenho 24 anos e sou natural de Salvador, Bahia. Estou cursando Tecnólogo em Análise e Desenvolvimento de Sistemas e sou apaixonada por tecnologia. Compartilho meus projetos e aprendizados através do GitHub e LinkedIn, sempre buscando evoluir como desenvolvedora frontend.
+Olá! Sou Mariana Gonçalves, apaixonada por tecnologia e desenvolvimento frontend. Estou cursando Tecnólogo em Análise e Desenvolvimento de Sistemas e adoro criar interfaces modernas e funcionais.
+
+📫 Me encontre no [LinkedIn](https://www.linkedin.com/in/mariana-gon%C3%A7alves-3982581a3/) 
 
 ---
 
 ### 🤖 Linguagens de Programação
 
-
-<img 
-    align="left" 
-    alt="HTML"
-    title="HTML" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="CSS" 
-    title="CSS"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
-/>
 <img 
     align="left" 
     alt="JavaScript" 
@@ -57,7 +42,6 @@ Olá! Me chamo Mariana Gonçalves, tenho 24 anos e sou natural de Salvador, Bahi
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" 
 />
-
 <img 
     align="left" 
     alt="SQL"
@@ -66,7 +50,6 @@ Olá! Me chamo Mariana Gonçalves, tenho 24 anos e sou natural de Salvador, Bahi
     style="padding-right: 10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg"
 />
-
 <img 
     align="left" 
     alt="Java"
@@ -74,6 +57,26 @@ Olá! Me chamo Mariana Gonçalves, tenho 24 anos e sou natural de Salvador, Bahi
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" 
+/>
+<br/><br/>
+
+### 📝 Marcação e Estilo
+
+<img 
+    align="left" 
+    alt="HTML"
+    title="HTML" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="CSS" 
+    title="CSS"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
 />
 <br/><br/>
 
@@ -87,16 +90,14 @@ Olá! Me chamo Mariana Gonçalves, tenho 24 anos e sou natural de Salvador, Bahi
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
 />
-
 <img 
     align="left" 
-    alt="PySide6"
-    title="PySide6"
+    alt="Next.js" 
+    title="Next.js"
     width="30px" 
-    style="padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/qt/qt-original.svg" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" 
 />
-
 <img 
     align="left" 
     alt="Bootstrap"
@@ -105,7 +106,30 @@ Olá! Me chamo Mariana Gonçalves, tenho 24 anos e sou natural de Salvador, Bahi
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" 
 />
-
+<img 
+    align="left" 
+    alt="Tailwind" 
+    title="Tailwind"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="PySide6"
+    title="PySide6"
+    width="30px" 
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/qt/qt-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="JQuery" 
+    title="JQuery"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jquery/jquery-original.svg" 
+/>
 <img 
     align="left" 
     alt="Git" 
