@@ -2,13 +2,13 @@
 
 **`Desenvolvedora em formação`**
 
-Olá! Meu nome é *Mariana, tenho **25 anos* e sou estudante de *Análise e Desenvolvimento de Sistemas*.
+Olá! Meu nome é Mariana, tenho 25 anos e sou estudante de Análise e Desenvolvimento de Sistemas.
 
-Atualmente estou focada em aprender *desenvolvimento web, construindo projetos práticos utilizando **JavaScript, **React* e *Node.js*.
+Atualmente estou focada em aprender desenvolvimento web, construindo projetos práticos utilizando JavaScript, React e Node.js.
 
-Tenho interesse em *arquitetura cliente-servidor, **integração de APIs, **autenticação com JWT* e *desenvolvimento de aplicações web completas*.
+Tenho interesse em arquitetura cliente-servidor, integração de APIs, autenticação com JWT e desenvolvimento de aplicações web completas.
 
-Estou em busca da minha *primeira oportunidade de estágio na área de desenvolvimento* para continuar evoluindo como desenvolvedora.
+Estou em busca da minha primeira oportunidade de estágio na área de desenvolvimento para continuar evoluindo como desenvolvedora.
 
 <p align="center">
 
@@ -144,9 +144,5 @@ Estou em busca da minha *primeira oportunidade de estágio na área de desenvolv
     src="https://github-readme-stats.vercel.app/api?username=MARIMON158&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
 </p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/MARIMON158/MARIMON158/output/snake.svg" alt="Snake animation"/>
-</p>
-                   
+         
 
