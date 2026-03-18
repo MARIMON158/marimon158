@@ -2,13 +2,12 @@
 
 **`Desenvolvedora em formação`**
 
-Olá! Meu nome é Mariana, tenho 25 anos e sou estudante de Análise e Desenvolvimento de Sistemas.
+<img align="right" height="150" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExanF2bGt4NTFycDl4aHRrOTZ3bjIwOGR2dmNhN3B4NHF0anY0emhiZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HJibfnd7xqk5hAMD4v/giphy.gif"  />
+
+<p align="left"> Olá! Meu nome é Mariana, tenho 25 anos e sou estudante de Análise e Desenvolvimento de Sistemas.
 Atualmente estou focada em aprender desenvolvimento web, construindo projetos práticos utilizando JavaScript, React e Node.js.
 Tenho interesse em arquitetura cliente-servidor, integração de APIs, autenticação com JWT e desenvolvimento de aplicações web completas.
 Estou em busca da minha primeira oportunidade de estágio na área de desenvolvimento para continuar evoluindo como desenvolvedora.
-<p align="center">
-
-💌 Vamos nos conectar no LinkedIn
 
 <br>
 
